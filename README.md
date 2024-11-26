@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://caio-vinicius-araujo.github.io/DevLinksProjetoDiscover/)
+- [Acesse o projeto finalizado, online](https://caio-vinicius-almeida.github.io/DevLinksProjetoDiscover-Rocketseat/)
 
 ## 🔖 Layout
 
@@ -42,4 +42,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 Feito com ♥ by Rocketseat: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
 # DevLinksProjetoDiscover-Rocketseat
